@@ -1,0 +1,38 @@
+.zx_hover_table{
+  width: 100%;
+  
+  text-align: center;
+  border: 1px solid gray;
+}
+.zx_hover_table th{
+  text-align: center;
+  background: #f5f8f9;
+  
+}
+.zx_hover_table tr{
+  height: 3em;
+  line-height: 3em;
+}
+.zx_hover_table tr td{
+ 
+}
+.zx_hover_table_even{
+  background: #f6f6f6;
+}
+.zx_hover_table_span{
+  width: 90px;
+  padding-left: 10px;
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+.zx_hover_table_bg1{
+  background: #fff7f1
+ 
+}
+.zx_hover_table_bg2{
+  background: #ffe6d3;
+}
+.zx_hover_table_bg3{
+  background: #e2e7e9!important;
+}
